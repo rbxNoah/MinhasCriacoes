@@ -1,5 +1,6 @@
 local mensagem = [[
-
+oi
+hi
 ]]
 
 -- Função para enviar as mensagens no chat
