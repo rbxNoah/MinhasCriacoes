@@ -14,7 +14,17 @@ Meu intuito **não é obter vantagens injustas em jogos**. Todos os scripts aqui
 
 ## ⚠️ Aviso  
 
-Os scripts deste repositório são apenas para estudo e aprendizado. **Use com responsabilidade!** 🚀  
+Os scripts deste repositório são apenas para estudo e aprendizado. **Use com responsabilidade!** 🚀 
+
+## 📝 Personalização  
+
+Estes scripts é **personalizáveis**! Você pode facilmente ajustar o comportamento do script, **incluir campos personalizados**. Para mais detalhes, confira o código-fonte dos **scripts** e sinta-se à vontade para modificar conforme suas necessidades.
+
+## 📄 Licença  
+
+Este projeto está licenciado sob a **MIT License**. Você pode usar, modificar e distribuir o código, desde que mantenha os créditos. Para mais detalhes, consulte o arquivo **LICENSE**.
+
+---
 
 **Atenciosamente,**  
 **Noah**
